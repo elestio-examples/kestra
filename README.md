@@ -4,7 +4,7 @@
 
 Deploy Kestra server with CI/CD on Elestio
 
-<img src="Kestra.png" style='width: 100%;'/>
+<img src="Kestra.jpg" style='width: 80%;'/>
 <br/>
 <br/>
 
