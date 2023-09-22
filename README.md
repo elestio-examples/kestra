@@ -23,3 +23,19 @@ You can open pgAdmin web UI here:
     password: [ADMIN_PASSWORD]
 
 Documentation URL: https://kestra.io/docs/user-interface-guide/
+--------------------------------------------------------------------------------------------------
+#  Examples:-
+
+```
+Hello world example to test flow:-
+id: helloWorld
+namespace: prod
+description: This flow logs a message to the console
+
+tasks:
+  - id: hello
+    type: io.kestra.core.tasks.log.Log
+    message: Hello world!
+```
+
+Get more examples at github.com/kestra-io/examples
