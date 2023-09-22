@@ -38,4 +38,4 @@ tasks:
     message: Hello world!
 ```
 
-Get more examples at github.com/kestra-io/examples
+Get more examples at https://github.com/kestra-io/examples
