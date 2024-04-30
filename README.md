@@ -13,7 +13,7 @@ Deploy Kestra server with CI/CD on Elestio
 You can open Kestra ADMIN UI here:
 
     URL: https://[CI_CD_DOMAIN]
-    username: admin
+    username: [ADMIN_EMAIL]
     password: [ADMIN_PASSWORD]
 
 You can open pgAdmin web UI here:
