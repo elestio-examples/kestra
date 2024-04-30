@@ -42,7 +42,7 @@ services:
           server:
             basic-auth:
               enabled: true
-              username: ${ADMIN_USERNAME}
+              username: ${ADMIN_EMAIL}
               password: ${ADMIN_PASSWORD}
           repository:
             type: postgres
